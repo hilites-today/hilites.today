@@ -1,2 +1,2 @@
 # hilites.today
-A issue tracker for https://hilites.today
+An issue tracking repository for https://hilites.today
